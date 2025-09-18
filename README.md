@@ -17,7 +17,7 @@ They are published as self-contained HTML files and can be viewed directly in th
 ---
 
 ## 🌍 Live Demo
-👉 [View the interactive maps here]([https://apilkc.github.io/Governance-and-Political-Systems](https://apilkc.github.io/governance_world/governance_dev.html)
+👉 [View the interactive maps here]([https://apilkc.github.io/governance/index.html)
 
 ---
 
