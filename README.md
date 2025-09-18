@@ -24,5 +24,5 @@ They are published as self-contained HTML files and can be viewed directly in th
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/apilkc.github.io/Governance-and-Political-Systems.git
+cd Governance-and-Political-Systems
